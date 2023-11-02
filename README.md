@@ -1,19 +1,26 @@
-# Pythonautas README
 
-## Working with Markdown
+# PYTHONAUTAS
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+O tema Pythonautas é a representação visual de nossa vibrante comunidade de entusiastas de Python. Com suas cores distintas e design cativante, este tema evoca a energia e paixão que compartilhamos por Python. Cada linha de código escrita sob este tema é um tributo à nossa dedicação à linguagem de programação que amamos. Junte-se a nós, os Pythonautas, enquanto continuamos a explorar, aprender e compartilhar em nossa jornada pelo mundo Python, unidos por nosso entusiasmo pela programação e pela inovação.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Logo](https://i.ibb.co/XWdXqZ8/capanautacentral.png
+)
 
-## For more information
+## Pythonautas Theme: Dê Vida ao Seu Código Python 
 
 ![Screenshot](https://raw.githubusercontent.com/pratadaniel94/vscode-theme-pythonautas/main/screenshot.png)
 
+## 🔗 Comunidade
+- [Whatsapp](https://chat.whatsapp.com/1SAOVZPHFHOJOgiXS1UwlG)
+- [LinkedIn](https://www.linkedin.com/company/101063966)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+## Autores
+
+- [@pratadaniel94](https://www.github.com/pratadaniel94)
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
