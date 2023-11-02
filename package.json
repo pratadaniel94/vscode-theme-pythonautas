@@ -1,0 +1,31 @@
+{
+  "name": "Pythonautas",
+  "displayName": "theme-pythonautas",
+  "description": "Official Pythonautas Theme. A dark theme for many editors, shells, and more.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "pythonautas"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratadaniel94/vscode-theme-pythonautas"
+  },
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pythonautas",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pythonautas-color-theme.json"
+      }
+    ]
+  }
+}
