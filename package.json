@@ -19,6 +19,8 @@
     "url": "https://github.com/pratadaniel94/vscode-theme-pythonautas"
   },
   "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "Pythonautas",
   "contributes": {
     "themes": [
       {
