@@ -20,7 +20,7 @@
 		"tab.border": "#d0ff00",
 		"tab.activeForeground": "#3BF2E0",
 		"tab.inactiveForeground": "#3BF2E0",
-		"tab.inactiveBackground": "#27432e",
+		"tab.inactiveBackground": "#25333C",
 		"statusBar.debuggingBackground": "#25333C",
 		"editorIndentGuide.background": "#25333C",
 		"editorGroupHeader.tabsBackground": "#25333C",
