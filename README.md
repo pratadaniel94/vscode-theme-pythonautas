@@ -10,6 +10,9 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 ## For more information
 
+![Screenshot](https://raw.githubusercontent.com/pratadaniel94/vscode-theme-pythonautas/main/screenshot.png)
+
+
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
