@@ -2,7 +2,7 @@
   "name": "Pythonautas",
   "displayName": "Pythonautas",
   "description": "Pythonauts Official Theme: A Dark Theme for Various Editors, Shells, and More.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },

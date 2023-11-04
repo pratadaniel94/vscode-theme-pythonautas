@@ -8,3 +8,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release V1.0.0
 - Update Logo     V1.0.1
+- Update English set for project documentation V.1.0.2
