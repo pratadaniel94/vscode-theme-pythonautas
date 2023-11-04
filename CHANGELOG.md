@@ -6,4 +6,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Initial release V1.0.0
+- Update Logo     V1.0.1

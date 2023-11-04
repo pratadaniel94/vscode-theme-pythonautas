@@ -1,8 +1,8 @@
 {
   "name": "Pythonautas",
-  "displayName": "theme-pythonautas",
-  "description": "Tema Oficial Pythonautas. Um tema escuro para vários editores, shells e muito mais.",
-  "version": "1.0.0",
+  "displayName": "Pythonautas",
+  "description": "Pythonauts Official Theme: A Dark Theme for Various Editors, Shells, and More.",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.80.0"
   },
