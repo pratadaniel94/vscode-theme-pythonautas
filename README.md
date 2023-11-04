@@ -1,16 +1,17 @@
 
 # PYTHONAUTAS
 
-O tema Pythonautas é a representação visual de nossa vibrante comunidade de entusiastas de Python. Com suas cores distintas e design cativante, este tema evoca a energia e paixão que compartilhamos por Python. Cada linha de código escrita sob este tema é um tributo à nossa dedicação à linguagem de programação que amamos. Junte-se a nós, os Pythonautas, enquanto continuamos a explorar, aprender e compartilhar em nossa jornada pelo mundo Python, unidos por nosso entusiasmo pela programação e pela inovação.
+The Pythonauts theme is the visual representation of our vibrant Python enthusiast community. With its distinct colors and captivating design, this theme evokes the energy and passion we share for Python. Every line of code written under this theme is a tribute to our dedication to the programming language we love. Join us, the Pythonauts, as we continue to explore, learn, and share on our journey through the Python world, united by our enthusiasm for programming and innovation.
 
 ![Logo](https://i.ibb.co/XWdXqZ8/capanautacentral.png
 )
 
-## Pythonautas Theme: Dê Vida ao Seu Código Python 
+## Pythonautas Theme: Bring Your Python Code to Life. 
 
 ![Screenshot](https://raw.githubusercontent.com/pratadaniel94/vscode-theme-pythonautas/main/screenshot.png)
 
-## 🔗 Comunidade
+## 🔗 Community
+- [Telegran](https://t.me/pythonautas)
 - [Whatsapp](https://chat.whatsapp.com/1SAOVZPHFHOJOgiXS1UwlG)
 - [LinkedIn](https://www.linkedin.com/company/101063966)
 
@@ -19,7 +20,7 @@ O tema Pythonautas é a representação visual de nossa vibrante comunidade de e
 
 - [@pratadaniel94](https://www.github.com/pratadaniel94)
 
-## Licença
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
