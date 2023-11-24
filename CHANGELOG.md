@@ -11,3 +11,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Update English set for project documentation V1.0.2
 - Update documentation with communication channels and cover photo V1.0.3
 - Update readme V1.0.4
+- windows division with border color V1.0.5
