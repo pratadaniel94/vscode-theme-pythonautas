@@ -2,7 +2,7 @@
   "name": "Pythonautas",
   "displayName": "Pythonautas",
   "description": "Pythonauts Official Theme: A Dark Theme for Various Editors, Shells, and More.",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pratadaniel94/vscode-theme-pythonautas"
+    "url": "https://github.com/Pythonautas/vscode-theme-pythonautas"
   },
   "icon": "icon.png",
   "license": "MIT",
